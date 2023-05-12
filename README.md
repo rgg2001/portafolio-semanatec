@@ -6,3 +6,5 @@ CaritApp: https://drive.google.com/file/d/1msp7j-3OQKOCr7seU-sEljZD5lsDqMND/view
 Software PI ArcaContinental: https://drive.google.com/file/d/1Xgc8ghbGPhvtLrjrYpojOgKyB9m8NSqZ/view?usp=sharing
 
 Evidencia Multiagentes: https://drive.google.com/file/d/1mSqtcVlqSRMtSfUBZoaj0c4vBjI76Tss/view?usp=sharing
+
+Actualmente trabajando en proyecto de software para Wizeline
